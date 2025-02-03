@@ -1,0 +1,1 @@
+This repository demonstrates a common Python programming error involving TypeErrors in data processing.  The `bug.py` file shows code that is prone to raising TypeErrors when processing a list of dictionaries. The `bugSolution.py` file showcases best practices for handling such errors effectively using exception handling.
